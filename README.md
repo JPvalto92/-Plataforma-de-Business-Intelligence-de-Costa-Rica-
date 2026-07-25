@@ -86,7 +86,6 @@ Datos oficiales provenientes de instituciones públicas de Costa Rica:
 
 Banco Central de Costa Rica (BCCR)
 PROCOMER
-CINDE
 Instituto Costarricense de Turismo (ICT)
 
 
