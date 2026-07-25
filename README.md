@@ -104,5 +104,5 @@ Facilitar la toma de decisiones mediante inteligencia de negocios.
 ![image](https://github.com/JPvalto92/-Plataforma-de-Business-Intelligence-de-Costa-Rica-/blob/f2fcc6923b422103fb21abeb6fe0800432982a46/Imagenes%20Dashboard/Porque%20invertir%20en%20CR.png)
 ![image](https://github.com/JPvalto92/-Plataforma-de-Business-Intelligence-de-Costa-Rica-/blob/8502c65ce6650f527f7e8c6a0e36a434012c7add/Imagenes%20Dashboard/Comercio%20Exterior%20CR.png)
 ![image](https://github.com/JPvalto92/-Plataforma-de-Business-Intelligence-de-Costa-Rica-/blob/69ac7995bf077e74e1fa8da22a37d70d27f75bb5/Imagenes%20Dashboard/IED%20CR.png)
-![image](
+![image](https://github.com/JPvalto92/-Plataforma-de-Business-Intelligence-de-Costa-Rica-/blob/5e9cd8e6146f5885ed1d46a802ea66fd1c700329/Imagenes%20Dashboard/Turismo%20Internacional%20CR.png)
 ![image](
