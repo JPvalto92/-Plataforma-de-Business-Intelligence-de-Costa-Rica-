@@ -99,3 +99,10 @@ Evaluar oportunidades de inversión.
 Monitorear el comercio internacional.
 Analizar el comportamiento del turismo.
 Facilitar la toma de decisiones mediante inteligencia de negocios.
+
+
+![image](https://github.com/JPvalto92/-Plataforma-de-Business-Intelligence-de-Costa-Rica-/blob/f2fcc6923b422103fb21abeb6fe0800432982a46/Imagenes%20Dashboard/Porque%20invertir%20en%20CR.png)
+![image](
+![image](
+![image](
+![image](
