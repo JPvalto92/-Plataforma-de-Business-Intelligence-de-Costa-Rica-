@@ -1,3 +1,101 @@
 # -Plataforma-de-Business-Intelligence-de-Costa-Rica-
 📌 Descripción del Proyecto  
 Esta plataforma de Business Intelligence integra cuatro dashboards interactivos desarrollados en Power BI, diseñados para analizar el comportamiento económico de Costa Rica utilizando datos oficiales provenientes de instituciones gubernamentales.  
+
+
+📊 Dashboards incluidos
+
+📈 1. ¿Por qué invertir en Costa Rica?
+
+Dashboard enfocado en los principales indicadores macroeconómicos del país.
+
+Incluye:
+
+Producto Interno Bruto (PIB)
+Inflación
+Tipo de cambio
+Tasas de interés
+Indicadores económicos
+
+🚢 2. Comercio Exterior de Costa Rica
+
+Análisis del comportamiento del comercio internacional.
+
+Incluye:
+
+Exportaciones
+Importaciones
+Balanza Comercial
+Principales socios comerciales
+Evolución histórica
+
+💰 3. Inversión Extranjera Directa (IED)
+
+Dashboard orientado al análisis de la inversión extranjera.
+
+Incluye:
+
+Inversión por país
+Sectores económicos
+Evolución histórica
+Distribución geográfica
+
+✈️ 4. Turismo Internacional
+
+Dashboard para el análisis del turismo en Costa Rica.
+
+Incluye:
+
+Llegada de turistas
+Ingresos por turismo
+Principales países emisores
+Tendencias históricas
+
+--🏗 Modelo de Datos--
+
+Toda la solución fue desarrollada utilizando un Modelo Estrella (Star Schema).
+
+La arquitectura integra tablas de hechos y dimensiones compartidas, permitiendo:
+
+Alto rendimiento en consultas.
+Relaciones optimizadas.
+Segmentación dinámica.
+Escalabilidad del modelo.
+Consistencia en los indicadores (KPIs).
+
+📌 Características principales
+Dashboards completamente interactivos.
+Segmentadores dinámicos.
+Indicadores (KPIs).
+Visualizaciones geográficas.
+Análisis de tendencias.
+Navegación intuitiva.
+Diseño profesional.
+
+--🛠 Herramientas utilizadas--
+Microsoft Power BI
+Power Query
+DAX
+Modelado de Datos
+Star Schema
+Microsoft Excel
+
+--📂 Fuentes de Datos--
+
+Datos oficiales provenientes de instituciones públicas de Costa Rica:
+
+Banco Central de Costa Rica (BCCR)
+PROCOMER
+CINDE
+Instituto Costarricense de Turismo (ICT)
+
+
+--📈 Valor del Proyecto--
+
+Esta plataforma permite:
+
+Analizar el desempeño económico de Costa Rica.
+Evaluar oportunidades de inversión.
+Monitorear el comercio internacional.
+Analizar el comportamiento del turismo.
+Facilitar la toma de decisiones mediante inteligencia de negocios.
